@@ -83,6 +83,12 @@ body {
     color: var(--white);
 }
 
+.Daniel {
+    background-image: url(/images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 92% 0;
+}
+
 .Jonathan {
     background-color: var(--very-dark-grayish-blue);
 }
