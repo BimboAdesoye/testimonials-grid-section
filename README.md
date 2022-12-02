@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot%202022-12-02%20at%2012-26-01%20Testimonials%20Grid%20Section.png)
+![](./)
 
 ### Links
 
 - Solution URL: [(https://github.com/BimboAdesoye/testimonials-grid-section/settings/pages)]
-- Live Site URL: [(https://bimboadesoye.github.io/testimonials-grid-section/)]
+- Live Site URL:
 
 ### Built with
 
